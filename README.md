@@ -10,9 +10,9 @@
 
 <!-- Add your app screenshots here -->
 <p align="center">
-  <img src="./assets/screenshots/screen.png" alt="Home Screen" width="250"/>
-  <img src="./assets/screenshots/screen2.png" alt="Schedule Screen" width="250"/>
-  <img src="./assets/screenshots/screen3.png" alt="Activity Screen" width="250"/>
+  <img src="./assets/screenshots/screen.png" alt="Home Screen" width="150"/>
+  <img src="./assets/screenshots/screen4.png" alt="Schedule Screen" width="150"/>
+  <img src="./assets/screenshots/screen5.png" alt="Activity Screen" width="150"/>
 </p>
 
 ## ✨ Features
