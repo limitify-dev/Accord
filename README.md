@@ -2,7 +2,7 @@
 
 <!-- Banner placeholder - Replace with your app banner image -->
 
-![Accord Banner](./assets/screenshots/screen1.png)
+![Accord Banner](./assets/screenshots/Banner.png)
 
 > A venue-based community platform that connects people within shared spaces, enabling seamless communication, event coordination, and collaboration.
 
@@ -78,7 +78,6 @@ Create a `.env` file in the root directory:
 
 ```env
 API_BASE_URL=your_api_url_here
-FIREBASE_API_KEY=your_firebase_key_here
 # Add other environment variables as needed
 ```
 
